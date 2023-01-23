@@ -2,7 +2,7 @@
 ## Olá! Bem vindo 👋
 
 
-Sou programador focado no desenvolvimento front-end de websites utilizando React/Angular.   
+Sou um programador focado no desenvolvimento front-end de websites utilizando React/Angular.   
 Gosto constantemente de aprender novas tecnologias para aplica-las nos meus projetos.   
 
 #### Minhas redes sociais.
